@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Coursework</string>
+    <string name="name_of_the_hike">Name of the hike *</string>
+    <string name="son_dong">Son Dong</string>
+    <string name="location">Location *</string>
+    <string name="quang_binh">Quang Binh</string>
+    <string name="date_of_the_hike">Date of the hike *</string>
+    <string name="_2023_01_01">2023-01-01</string>
+    <string name="time_of_the_hike">Hike Duration (HH:mm)</string>
+    <string name="_10_37">10:37</string>
+    <string name="parking_available">Parking Available *</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="length_of_the_hike">Length of the hike(km)*</string>
+    <string name="hike_participants">Hike participants</string>
+    <string name="_100">100</string>
+    <string name="_10">10</string>
+    <string name="difficulty_level">Difficulty level *</string>
+    <string name="description">Description</string>
+    <string name="description_about_the_hike">Description about the hike</string>
+    <string name="save">SAVE</string>
+    <string name="add">ADD</string>
+    <string name="deleteall">DELETEALL</string>
+    <string name="delete">DELETE</string>
+    <string name="add_new_hike">ADD NEW HIKE</string>
+    <string name="home">HOME</string>
+    <string name="update_hike">UPDATE HIKE</string>
+    <string name="hike_name">Hike name</string>
+    <string name="hike_location">Hike location</string>
+    <string name="doh">Doh</string>
+    <string name="parking">Parking</string>
+    <string name="length">Length</string>
+    <string name="difficult">Difficult</string>
+    <string name="name">Name:</string>
+    <string name="_location">Location:</string>
+    <string name="date">Date:</string>
+    <string name="_description">Description:</string>
+    <string name="length_km">Length(km):</string>
+    <string name="_difficult">Difficult:</string>
+    <string name="_parking_available">Parking Available:</string>
+    <string name="time">Duration:</string>
+    <string name="_time">Duration</string>
+    <string name="participants">Participants:</string>
+    <string name="_participants">Participants</string>
+    <string-array name="difficulty_level">
+        <item>HIGH</item>
+        <item>MEDIUM</item>
+        <item>LOW</item>
+    </string-array>
+</resources>
